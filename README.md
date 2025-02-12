@@ -25,6 +25,8 @@
 * [Front de site de livros](https://front-site-livros.netlify.app)<br/>
 * [Front de site de trabalhos acadêmicos com javascript](https://site-trabalhos-academicos.netlify.app)<br/>
 * [Landing Page Empresa Fictícia AdequaKids](https://adequakids.netlify.app)<br/>
+* [Dashboard Sistema de Gerenciamento de igrejas](https://sgi-main.netlify.app)<br/>
+
 
 
 
